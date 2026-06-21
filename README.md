@@ -24,11 +24,18 @@
 
 ## 🛠️ Tech Stack
 
-### Mobile Development: React Native - Flutter - Java - Kotlin - Android Studio
-### Backend & Web: Java Servlets - PHP - React.js - JavaScript - TypeScript
-### Database & APIs: MySQL - Firebase - REST APIs - Fetch - Axios - Postman
-### Tools: Git & GitHub - VS Code - IntelliJ IDEA - Android Studio - Figma - Cloudinary
-### AI Tools: Cursor AI Agent - Claude (AI-assisted coding, prompt engineering, code review) - Antigravity AI Agent
+### Mobile Development: 
+- React Native - Expo - Flutter - Java - Kotlin - Android Studio
+### Backend & Web: 
+- Java Servlets - PHP - React.js - JavaScript - TypeScript
+### Database & APIs:
+- MySQL - Firebase - SQLite - Room Database - SharedPreferences - REST APIs - Axios - Postman
+### State Management:
+ - Redux
+### Tools: 
+- Git & GitHub - VS Code - IntelliJ IDEA - Android Studio - Figma - Cloudinary
+### AI Tools: 
+- Cursor AI Agent - Claude (AI-assisted coding, prompt engineering, code review) - Antigravity AI Agent
  
 ---
 
