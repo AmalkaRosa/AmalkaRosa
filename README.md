@@ -1,101 +1,62 @@
-# Hi there 👋, I'm Amalka Rosa
+# Hi, I'm Amalka Rosa 👋
 
-## Junior Mobile Application Developer
+**Junior Mobile Application Developer**
+BSc (Hons) Software Engineering - Second Class Upper Honours
 
-🎓 BSc (Hons) Software Engineering Graduate (Second Class Upper Honours)
+Mobile Application Developer with hands-on experience building cross-platform mobile applications using React Native and Android technologies. Passionate about building scalable, user-friendly apps while continuously learning modern mobile development practices.
 
-📱 Passionate Mobile Application Developer specializing in React Native, Android Development, Flutter, Java, and Kotlin.
+## About Me
 
-🚀 Currently building cross-platform mobile applications and continuously learning modern mobile technologies.
+Specializing in React Native, Android (Java & Kotlin), and Flutter. Experienced in developing business applications, integrating REST APIs, implementing state management, and working with Firebase and MySQL. Strong understanding of mobile UI development, software engineering principles, and collaborative development using Git.
 
----
+## Technical Skills
 
-## 👨‍💻 About Me
+**Mobile Development:** React Native, Flutter, Android (Java & Kotlin), Expo, Android Studio
 
-- 📱 React Native Developer
-- 🤖 Android Developer (Java & Kotlin)
-- 🎨 UI/UX Designer (Figma)
-- 🔥 Firebase & REST API Integration
-- 🗄️ MySQL Database Development
-- ☁️ AWS AI Practitioner Certified
-- 🌱 Currently improving React Native and Flutter skills
+**Programming Languages:** Java, Kotlin, JavaScript, TypeScript, PHP
 
----
+**Backend Technologies:** Java Servlets, REST API Development, React.js
 
-## 🛠️ Tech Stack
+**Database Technologies:** MySQL, Firebase Firestore, SQLite, Room Database, SharedPreferences
 
-### Mobile Development: 
-- React Native - Expo - Flutter - Java - Kotlin - Android Studio
-### Backend & Web: 
-- Java Servlets - PHP - React.js - JavaScript - TypeScript
-### Database & APIs:
-- MySQL - Firebase - SQLite - Room Database - SharedPreferences - REST APIs - Axios - Postman
-### State Management:
- - Redux
-### Tools: 
-- Git & GitHub - VS Code - IntelliJ IDEA - Android Studio - Figma - Cloudinary
-### AI Tools: 
-- Cursor AI Agent - Claude (AI-assisted coding, prompt engineering, code review) - Antigravity AI Agent
- 
----
+**State Management:** Redux
 
-## 🚀 Featured Projects
+**API & Development Tools:** REST APIs, Axios, Postman
 
-### 📱 Sales Distribution App
-- Customer registration and management
-- Route-based customer filtering
-- Customer returns workflow
-- Distributor order management
-- React Native + TypeScript + Laravel + MySQL
+**Development Tools:** Git, GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA, Figma, Cloudinary
 
-### 😊 Face Reaction App
-- Customer feedback kiosk system
-- Multilingual support
-- Real-time feedback analytics
-- React Native + Laravel + MySQL
+**AI Development Tools:** Cursor AI, Claude, Antigravity AI
 
-### 👨‍💼 HR Mobile Application
-- Attendance tracking
-- Paysheet management
-- PDF generation
-- React Native + REST APIs
+## Featured Projects
 
-### 💬 Cross Platform Chat App
-- React Native Frontend
-- Java Servlet Backend
-- MySQL Database
-- Real-time messaging
+**Sales Distribution Application** - React Native, TypeScript
+A distributor sales app with customer registration and management, order and return workflows, route-based customer management, and a dynamic print-invoice screen (order items, free items, and returns) integrated with real-time REST APIs.
 
-### 🛍️ Batik Shop App
-- Android E-Commerce Application
-- Firebase Firestore
-- Cloudinary Integration
-- PayHere Payments
+**Face Reaction Application** - React Native, Laravel, MySQL
+A customer feedback kiosk application with multilingual support and real-time feedback analytics.
 
-### ☕ Coffee Shop App
-- Kotlin Android Application
-- Firebase Authentication
-- Firestore Database
-- MVVM Architecture
+**HR Mobile Application** - React Native
+Attendance management, paysheet management, PDF report generation, and backend REST API integration. [View on Google Play](https://play.google.com/store/apps/details?id=com.shapeup.hr&hl=en)
 
----
+**Cross Platform Chat Application** - React Native, Java Servlet, MySQL
+A real-time messaging application with backend services built using Java Servlets and MySQL database management.
 
-## 📜 Certifications
+**Batik Shop Application** - Android (Java), Firebase, Cloudinary
+An Android e-commerce app with Firebase Authentication and Firestore, PayHere payment gateway, and Cloudinary image management.
 
-- AWS Basics
+**Coffee Shop Application** - Kotlin, Firebase
+A native Android app built with Kotlin using MVVM architecture, with Firebase Authentication and Firestore.
+
+## Certifications
+
 - AWS Certified AI Practitioner
+- AWS Basics
 - AI-Assisted Development
 - Prompt Engineering 101
 - Postman Essentials
 
----
+## Contact
 
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/amalka-rosa-270239230
-- GitHub: https://github.com/AmalkaRosa
 - Email: amalkarosa@gmail.com
-
----
-
-⭐ Always eager to learn, collaborate, and build impactful mobile applications.
+- LinkedIn: [amalka-rosa-270239230](https://www.linkedin.com/in/amalka-rosa-270239230)
+- GitHub: [AmalkaRosa](https://github.com/AmalkaRosa)
