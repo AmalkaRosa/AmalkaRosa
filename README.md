@@ -30,7 +30,7 @@ Specializing in React Native, Android (Java & Kotlin), and Flutter. Experienced 
 ## Featured Projects
 
 **Sales Distribution Application** - React Native, TypeScript
-A distributor sales app with customer registration and management, order and return workflows, route-based customer management, and a dynamic print-invoice screen (order items, free items, and returns) integrated with real-time REST APIs.
+A distributor sales app with customer registration and management, order and return workflows, route-based customer management, and a dynamic print-invoice screen (order items, free items, and returns) integrated with real-time REST APIs.[View on Google Play](https://play.google.com/store/apps/details?id=com.ansen)
 
 **Face Reaction Application** - React Native, Laravel, MySQL
 A customer feedback kiosk application with multilingual support and real-time feedback analytics.
